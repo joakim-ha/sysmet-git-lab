@@ -11,5 +11,6 @@ int main(void)
     printf("Hello from Karl\n");
     printf("Hello from Felix!\n");
     printf("Hello from Katja\n");
+    printf("Hello from Tim!\n");
     return 0;
 }
