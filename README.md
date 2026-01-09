@@ -8,4 +8,4 @@
    6.1 Gör en `pull`  
    6.2 Gör en `commit` som löser konflikten  
    6.3 Gå till steg 5  
-7. Gå vidare till steg 18 i laborationen!
+7. Den obligatoriska delen av laborationen är avklarad, men gå gärna vidare till steg 17 i laborationen och bekanta dig med .gitignore, branches och pull requests!
